@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Ventas y principios de negociación',
+    descripcionCurso:
+      'Material formativo que brinda el marco conceptual y teórico sobre las estrategias de negociación y ventas bajo el contexto de las organizaciones y la normativa vigente; todo mediado por ambientes digitales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -31,13 +32,23 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Métodos de venta',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Atención, Interés, Deseo y Acción (AIDA)',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Situación, Problema, Implicación, Necesidad (SPIN)',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Necesidad, Característica, Beneficio, Ventaja (NCBV)',
+            hash: 't_1_3',
           },
         ],
       },
@@ -45,14 +56,61 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Conociendo las organizaciones',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: '<em>Branding</em>',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Lenguaje corporativo',
+            hash: 't_2_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Canales digitales de ventas',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Redes sociales',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Tipos de <em>e-commerce</em>',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: '<em>Habeas data</em>',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'La negociación',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Mejor Alternativa al Acuerdo Negociado (MAAN)',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo: 'Protección al consumidor y normatividad',
+            hash: 't_4_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -85,6 +143,11 @@ export default {
       },
       {
         icono: 'fas fa-download',
+        titulo: 'Descargar PDF',
+        download: 'downloads/CFA_012_623605.zip',
+      },
+      {
+        icono: 'fas fa-download',
         titulo: 'Descargar material',
         download: 'downloads/material.zip',
       },
@@ -97,32 +160,180 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '1.1.	Atención interés deseo y acción (AIDA).',
+      referencia:
+        'Tey, A. (2015). Ana Tey apareciendo en el Anuncio de Línea Directa TE BUSCAMOS Oficina',
+      tipo: 'Video',
+      link: 'YouTube. https://youtu.be/Sf3qBBJ2V5g',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Anuncios <em>bumper</em>',
+      significado:
+        'son anuncios de video que no se pueden omitir, con una duración máxima de 6 segundos, y deben verse antes de poder acceder al video. Es un formato de anuncio que puede aparecer antes, en o después del contenido del video.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Cuarta Revolución Industrial',
+      significado:
+        'fenómeno actual que mezcla vanguardistas técnicas de producción con sistemas inteligentes que se integran con las organizaciones y las personas.',
+    },
+    {
+      termino: 'Fuerza de ventas',
+      significado:
+        'se refiere a las personas, estrategias y productos de una empresa que se enfocan en asegurar la satisfacción total del cliente, generar demandas sobre los bienes de la empresa, mejorar sus ventas y apalancar los ingresos de la organización.',
+    },
+    {
+      termino: '<em>Influencer</em>',
+      significado:
+        'persona que destaca en una red social u otro canal de comunicación y expresa opiniones sobre un tema concreto y que ejerce una gran influencia sobre muchas personas que la conocen.',
+    },
+    {
+      termino: '<em>Marketplace</em>',
+      significado:
+        'sitio donde los productos son ofrecidos por los comerciantes para ser adquiridos por consumidores, es decir, un mercado en el mundo online. En él, varios comerciantes colocan sus productos a la venta en un solo canal.',
+    },
+    {
+      termino: 'Medios sincrónicos',
+      significado:
+        'son aquellos medios que permiten la comunicación entre dos o más interlocutores de forma simultánea. A través de ella, los participantes intercambian información y contenidos de diversos formatos en tiempo real.',
+    },
+    {
+      termino: '<em>Target</em>',
+      significado:
+        '(público objetivo) es el conjunto de personas para el que se orienta la venta de un producto o servicio.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'American Express. (2021). Marketplaces: Cómo ayudan a tu Empresa y ejemplos. ',
+      link:
+        'https://www.americanexpress.com/es-mx/negocios/trends-and-insights/articles/marketplaces-como-ayudan-a-tu-empresa-y-ejemplos/',
+    },
+    {
+      referencia:
+        'Asprilla, A. (2016). La conciliación como medio alternativo de solución de conflictos. Universidad Cooperativa de Colombia.',
       link: '',
+    },
+    {
+      referencia:
+        'Ballesteros, R. (2016). Branding. El arte de marcar corazones. ECOE Ediciones. ',
+      link:
+        'https://books.google.es/books?id=lN3DDQAAQBAJ&lpg=PT4&ots=SgP_ltyJE8&dq=componentes%20del%20branding&lr&hl=es&pg=PT21#v=onepage&q=componentes%20del%20branding&f=false ',
+    },
+    {
+      referencia:
+        'Cámara de Comercio de Bogotá. (2020). Cómo vender por WhatsApp Business. ',
+      link: 'http://hdl.handle.net/11520/25775 ',
+    },
+    {
+      referencia:
+        'Canales, P. (2013). Neuromarketing, ¿el futuro ya está aquí? 3C Empresa, (16). ',
+      link:
+        'https://www.3ciencias.com/articulos/articulo/neuromarketing-el-futuro-ya-esta-aqui-2/ ',
+    },
+    {
+      referencia: 'Canlla, E. (2017). Marketing y ventas por internet. MACRO.',
+      link: '',
+    },
+    {
+      referencia:
+        'CEEI Ciudad Real. (2005). Guía para la elaboración de un estudio de mercado. ',
+      link:
+        'https://www.eenbasque.net/guia_transferencia_resultados/files/CEEI_Ciudad_Real-Guia_para_la_elaboraci%2B%A6n_de_un_estudio_de_mercado.pdf ',
+    },
+    {
+      referencia:
+        'Hugo, F., Jiménez, C., Holovatyi, M. y Lara, P. (2020). El impacto de las redes sociales en la administración de empresas. Recimundo, 4(1), p. 173-182. ',
+      link: 'http://recimundo.com/index.php/es/article/view/755 ',
+    },
+    {
+      referencia:
+        'IngenioVirtual. (2020). ¿Qué es cross selling o venta cruzada en ecommerce? ',
+      link:
+        'https://www.ingeniovirtual.com/que-es-cross-selling-o-venta-cruzada/ ',
+    },
+    {
+      referencia:
+        'Katyuska. (2016). Diferencias entre mercados B2C y mercados B2B. Wuombo. ',
+      link: 'https://wuombo.com/diferencias-mercados-b2c-mercados-b2b/ ',
+    },
+    {
+      referencia:
+        'Lecinski, J. (2011). ZMOT Ganando el momento cero de la verdad. Google. ',
+      link:
+        'https://think.storage.googleapis.com/intl/es-419_ALL/docs/2011-winning-zmot-ebook_research-studies.pdf ',
+    },
+    {
+      referencia:
+        'Lionbridge. (2020). ¿Cómo puede definir y gestionar el lenguaje corporativo de su empresa? Lionbridge Technologies. ',
+      link:
+        'https://www.lionbridge.com/es/blog/content-creation/how-do-you-define-and-manage-your-corporate-language/ ',
+    },
+    {
+      referencia:
+        'López, R. (2017). Comunicación y atención al cliente en hostelería y turismo. IC Editorial. ',
+      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=8742 ',
+    },
+    {
+      referencia:
+        'Meta. (2021). Three Insights On the Business Opportunity for the Metaverse. ',
+      link:
+        'https://www.facebook.com/business/news/metaverse-business-opportunity-insights ',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social [Minsalud]. (2017). Lineamiento para la implementación de actividades de promoción de la salud visual, control de alteraciones visuales y discapacidad visual evitable (estrategia visión 2020). ',
+      link:
+        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ENT/lineamientos-salud-visual-2017.pdf ',
+    },
+    {
+      referencia:
+        'Ministerio de Comercio, Industria y Turismo [Mincomercio]. (2019). Protección del consumidor. ',
+      link:
+        'https://www.mincit.gov.co/minindustria/estrategia-transversal/regulacion/proteccion-del-consumidor ',
+    },
+    {
+      referencia:
+        'Okdiario. (2016). ¿En qué consiste la técnica MAAN de negociación?. ',
+      link:
+        'https://okdiario.com/economia/consiste-tecnica-maan-negociacion-415154 ',
+    },
+    {
+      referencia:
+        'Peláez, R. y Lara, C. (2016). Uso de las netiquetas y su correcta utilización en las redes sociales. Revista CCCSS. ',
+      link: 'http://www.eumed.net/rev/cccss/2016/04/netiquetas.html ',
+    },
+    {
+      referencia: 'Quiroa, M. (2020). Tipos de clientes. Economipedia.com. ',
+      link: 'https://economipedia.com/definiciones/tipos-de-clientes.html ',
+    },
+    {
+      referencia:
+        'Real, I. (2014). Uso e impacto de las redes sociales en las estrategias de marketing de las PyME’s. Revista de Investigación Académica Sin Frontera, 7(24). ',
+      link:
+        'https://revistainvestigacionacademicasinfrontera.unison.mx/index.php/RDIASF/article/view/47/46 ',
+    },
+    {
+      referencia:
+        'Salomón, P. (2022). ¿Qué es el marketing B2B y cuál es la mejor estrategia? Inboundcycle. ',
+      link:
+        'https://www.inboundcycle.com/blog-de-inbound-marketing/marketing-b2b-que-es-exactamente ',
+    },
+    {
+      referencia:
+        'Superintendencia de Industria y Comercio. (2021). Manejo de información personal, "Habeas data". ',
+      link: 'https://www.sic.gov.co/manejo-de-informacion-personal',
+    },
+    {
+      referencia: 'W3C. (2022). Introduction to Web Accessibility. ',
+      link: 'https://www.w3.org/WAI/fundamentals/accessibility-intro/ ',
+    },
+    {
+      referencia:
+        'Web Accessibility In Mind [WebAIM]. (2017). Designing for Screen Reader Compatibility. ',
+      link: 'https://webaim.org/techniques/screenreader/ ',
     },
   ],
   creditos: [
