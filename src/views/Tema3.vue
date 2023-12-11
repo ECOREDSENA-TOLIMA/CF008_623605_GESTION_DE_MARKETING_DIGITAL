@@ -36,7 +36,7 @@
       h2 3.1 Redes sociales
 
     p(data-aos="fade-left") Son herramientas basadas en estructuras digitales que interconectan personas y empresas a partir de un interés o valores en común.
-    p(data-aos="fade-left") Canales como #[em Twitter, Instagram y Facebook] permiten que los públicos tengan un contacto más cercano con la empresa, de tal forma que puedan expresar sus inconformidades y lo que esperan de esta, sin necesidad de trasladarse de lugar. La respuesta inmediata que puede el consumidor recibir de la empresa logra no solo fidelizar al cliente, sino también brindar a la clientela la seguridad de que está siendo escuchado activamente. Otras como #[em YouTube] permiten ser más vitrinas en medios audiovisuales, que si bien podrían ser más costosas, se podría recompensar con la efectividad que presentan.
+    p(data-aos="fade-left") Canales como em X, Instagram y Facebook permiten que los públicos tengan un contacto más cercano con la empresa, de tal forma que puedan expresar sus inconformidades y lo que esperan de esta, sin necesidad de trasladarse de lugar. La respuesta inmediata que puede el consumidor recibir de la empresa logra no solo fidelizar al cliente, sino también brindar a la clientela la seguridad de que está siendo escuchado activamente. Otras como YouTube permiten ser más vitrinas en medios audiovisuales, que si bien podrían ser más costosas, se podría recompensar con la efectividad que presentan.
     p(data-aos="fade-left").mb-5 Todo plan de comunicación y #[em marketing] digital tiene como componente principal uno o varios objetivos, dependiendo del enfoque de campañas o pretensiones comerciales. A continuación, se mencionan los objetivos que aplican en el uso de las redes sociales:
 
     .row.mb-5
@@ -45,8 +45,8 @@
       .col-8
         TabsA.color-acento-botones
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Tráfico")
-            h4 Aumentar tráfico al sitio web
-            p Conseguir visitas a la web o tienda online. Cuando las cifras de este objetivo son altas, indica que se llega al público objetivo y la campaña está generando interés.
+            h4 Aumentar tráfico al sitio #[em web]
+            p Conseguir visitas a la #[em web] o tienda #[em online]. Cuando las cifras de este objetivo son altas, indica que se llega al público objetivo y la campaña está generando interés.
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Imagen")
             h4 Mejorar la reputación
@@ -159,7 +159,7 @@
             .col-2
               img(src='@/assets/curso/temas/tema3/9.svg', alt='Texto que describa la imagen')
             .col-10 
-              p La decisión de estar presente en TikTok o no suele ser un análisis y una decisión que recae en el equipo de marketing de cada empresa. Lo que es innegable es que, en un entorno en constante evolución, las empresas deben explorar diferentes canales y adaptar sus estrategias de contenido para mantenerse relevantes. En este sentido, TikTok representa una oportunidad interesante para las empresas que desean llegar a nuevas audiencias y mantenerse al tanto de las tendencias digitales.
+              p La decisión de estar presente en TikTok o no suele ser un análisis y una decisión que recae en el equipo de #[em marketing] de cada empresa. Lo que es innegable es que, en un entorno en constante evolución, las empresas deben explorar diferentes canales y adaptar sus estrategias de contenido para mantenerse relevantes. En este sentido, TikTok representa una oportunidad interesante para las empresas que desean llegar a nuevas audiencias y mantenerse al tanto de las tendencias digitales.
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
@@ -225,8 +225,8 @@
       
     .row.justify-content-center.align-items-center.mb-5 
       .col-8
-        p El objetivo principal de estas herramientas es permitir que los clientes y usuarios encuentren fácilmente empresas que se ajusten a sus necesidades de búsqueda. Esto significa que cuando alguien busca por palabras clave relacionadas con un negocio, este debería aparecer en un cuadro de información relevante. Aquellas empresas que logran posicionarse y aparecer, al menos en la primera página de resultados de búsqueda, cuando los usuarios utilizan palabras clave comerciales, sin mencionar el nombre específico del negocio, tienden a ganar mayor visibilidad y, por lo tanto, atraer a más clientes. En resumen, el Business Profile de Google es una herramienta esencial para cualquier empresa que desee destacar en las búsquedas en línea y ser relevante para su audiencia.
-        p Son muchas las ventajas que presenta #[em Google] para las empresas, a continuación, se muestran algunas de ellas: 
+        p El objetivo principal de estas herramientas es permitir que los clientes y usuarios encuentren fácilmente empresas que se ajusten a sus necesidades de búsqueda. Esto significa que cuando alguien busca por palabras clave relacionadas con un negocio, este debería aparecer en un cuadro de información relevante. Aquellas empresas que logran posicionarse y aparecer, al menos en la primera página de resultados de búsqueda, cuando los usuarios utilizan palabras clave comerciales, sin mencionar el nombre específico del negocio, tienden a ganar mayor visibilidad y, por lo tanto, atraer a más clientes. En resumen, el #[em Business Profile] de Google es una herramienta esencial para cualquier empresa que desee destacar en las búsquedas en línea y ser relevante para su audiencia.
+        p Son muchas las ventajas que presenta Google para las empresas, a continuación, se muestran algunas de ellas: 
       .col-4
         img(src='@/assets/curso/temas/tema3/13.svg')
 
@@ -263,7 +263,7 @@
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
-        h3.mb-0.ms-3 #[em Web Site] y desarrollos propios 
+        h3.mb-0.ms-3 #[em web Site] y desarrollos propios 
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-8
@@ -274,7 +274,7 @@
               img.mb-3(src='@/assets/curso/temas/tema3/16.svg')
             .col-9
               p La independencia y autonomía en las propias herramientas o medio digital, sin duda, es una gran ventaja, pues no depender de herramientas de terceros da una sensación de libertad e independencia para tomar sus propias decisiones y publicar lo que se desee y de la manera que se quiera, teniendo sus propias metas y parámetros.
-        p Como todo, tiene un precio, pues desarrollar un propio web site, con utilidades y alcance, podría tener costos en tiempo y dinero, pero, con constancia y un buen trabajo integral (incluyendo otros medios), el tiempo dará los frutos.
+        p Como todo, tiene un precio, pues desarrollar un propio #[em web site], con utilidades y alcance, podría tener costos en tiempo y dinero, pero, con constancia y un buen trabajo integral (incluyendo otros medios), el tiempo dará los frutos.
 
       .col-4
         img(src='@/assets/curso/temas/tema3/17.png')
@@ -284,13 +284,13 @@
       ul.lista-ul--color.p-4
         li 
           i.fas.fa-circle
-          | Integrar las opiniones de los clientes (desde redes sociales a su web).
+          | Integrar las opiniones de los clientes (desde redes sociales a su #[em web]).
         li 
           i.fas.fa-circle
           | Aumentar seguidores a los canales sociales.
         li 
           i.fas.fa-circle
-          | Mejorar la comunicación con los clientes a partir de chat y medios de reclamos u otros, directamente desde la #[em web.]
+          | Mejorar la comunicación con los clientes a partir de #[em chat] y medios de reclamos u otros, directamente desde la #[em web.]
         li 
           i.fas.fa-circle
           | Generar mayor confianza de marca.
@@ -304,7 +304,7 @@
           i.fas.fa-circle
           | Insumo para mejorar campañas de #[em marketing] y ventas, con redes sociales y otros medios #[em offline].
 
-    p(data-aos="fade-left").mb-5 Si bien no se requiere ser un experto en informática, el desarrollo de sitios web propios requiere de conocimiento y el pago a proveedores según las necesidades y tamaño de la organización.
+    p(data-aos="fade-left").mb-5 Si bien no se requiere ser un experto en informática, el desarrollo de sitios #[em web] propios requiere de conocimiento y el pago a proveedores según las necesidades y tamaño de la organización.
 
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Tipos de #[em e-commerce]
@@ -364,7 +364,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Venta cruzada
-            p También llamada cross-selling, consiste en fomentar la venta de productos complementarios a un producto principal que el consumidor está comprando. Por ejemplo, una funda para un teléfono, un ratón inalámbrico para un portátil, etc. (Salecycle, 2022).
+            p También llamada #[em cross-selling], consiste en fomentar la venta de productos complementarios a un producto principal que el consumidor está comprando. Por ejemplo, una funda para un teléfono, un ratón inalámbrico para un portátil, etc. (Salecycle, 2022).
 
           .col-md-6
             figure
@@ -373,7 +373,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Venta adicional
-            p También conocida como Venta sugestiva o Up selling, busca comercializar productos similares a los que una persona desea comprar o ya haya comprado, pero con mayores características y precio. Por ejemplo, un teléfono similar al que está mirando, pero de la siguiente gama, por un poco más de dinero.
+            p También conocida como Venta sugestiva o #[em Up selling], busca comercializar productos similares a los que una persona desea comprar o ya haya comprado, pero con mayores características y precio. Por ejemplo, un teléfono similar al que está mirando, pero de la siguiente gama, por un poco más de dinero.
 
           .col-md-6
             figure
@@ -395,7 +395,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Venta #[em inbound]
-            p Las empresas que usan esta técnica buscan educar a clientes potenciales en temas técnicos del gremio, de esa manera, se fortalece la confianza y presencia de marca ante un público especializado o que tenga los mismos gustos o pasiones. En la venta inbound, el cliente llega a la marca. Un ejemplo de estas ventas son las ruedas de negocios o seminarios web, ferias, etc.
+            p Las empresas que usan esta técnica buscan educar a clientes potenciales en temas técnicos del gremio, de esa manera, se fortalece la confianza y presencia de marca ante un público especializado o que tenga los mismos gustos o pasiones. En la venta #[em inbound], el cliente llega a la marca. Un ejemplo de estas ventas son las ruedas de negocios o seminarios #[em web], ferias, etc.
  
           .col-md-6
             figure
@@ -404,7 +404,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Venta #[em Outbound]
-            p En su traducción, “ventas activas”, es cuando la empresa o el representante de ventas busca al comprador. Contrario al inbound, donde el cliente llega, para hacer outbound sales, es necesario que la fuerza de ventas tenga claridad sobre cuál es el target de la marca, para así actuar de manera más estratégica y asertiva. Por ejemplo, una campaña de ADS en redes sociales.
+            p En su traducción, “ventas activas”, es cuando la empresa o el representante de ventas busca al comprador. Contrario al #[em inbound], donde el cliente llega, para hacer #[em outbound] sales, es necesario que la fuerza de ventas tenga claridad sobre cuál es el target de la marca, para así actuar de manera más estratégica y asertiva. Por ejemplo, una campaña de ADS en redes sociales.
 
 
           .col-md-6
@@ -441,43 +441,43 @@
           .row
             .col.mb-4.mb-md-0
               h3 Titular de la información
-              p persona natural o jurídica a quien se refiere la información que reposa en un banco de datos.
+              p Persona natural o jurídica a quien se refiere la información que reposa en un banco de datos.
 
           .row
             .col
               h3 Operador de información
-              p persona u organización que recibe de la fuente datos personales sobre varios titulares de la información, los administra y los pone en conocimiento de los usuarios bajo los parámetros de la ley.
+              p Persona u organización que recibe de la fuente datos personales sobre varios titulares de la información, los administra y los pone en conocimiento de los usuarios bajo los parámetros de la ley.
               
 
           .row
             .col.mb-4.mb-md-0
               h3 Usuario de la información
-              p persona natural o jurídica que puede acceder a información personal de uno o varios titulares de la información suministrada por el operador o por la fuente, o directamente por el titular de la información.
+              p Persona natural o jurídica que puede acceder a información personal de uno o varios titulares de la información suministrada por el operador o por la fuente, o directamente por el titular de la información.
           
           .row
             .col.mb-4.mb-md-0
               h3 Dato personal
-              p información vinculada a una o varias personas determinadas o determinables o que puedan asociarse con una persona natural o jurídica. Los datos personales pueden ser públicos, semiprivados o privados.
+              p Información vinculada a una o varias personas determinadas o determinables o que puedan asociarse con una persona natural o jurídica. Los datos personales pueden ser públicos, semiprivados o privados.
 
           .row
             .col.mb-4.mb-md-0
               h3 Principio de finalidad
-              p obliga a que las actividades de recolección de datos personales obedezcan a una finalidad legal. Con fundamento en este principio, la finalidad debe ser comunicada al titular de la información previa o concomitante con el otorgamiento del titular de la autorización.
+              p Obliga a que las actividades de recolección de datos personales obedezcan a una finalidad legal. Con fundamento en este principio, la finalidad debe ser comunicada al titular de la información previa o concomitante con el otorgamiento del titular de la autorización.
 
           .row
             .col.mb-4.mb-md-0
               h3 Circulación restringida
-              p consiste en que, a menos que la información sea pública, los datos personales no podrán ser accesibles por Internet o por otros medios de divulgación o comunicación masiva, salvo algunas excepciones definidas por la ley.
+              p Consiste en que, a menos que la información sea pública, los datos personales no podrán ser accesibles por Internet o por otros medios de divulgación o comunicación masiva, salvo algunas excepciones definidas por la ley.
 
           .row
             .col.mb-4.mb-md-0
               h3 Principio de seguridad
-              p con la información contenida en los bancos de datos, así como aquella que resulte de las consultas que realicen los usuarios, se deben incorporar las medidas técnicas necesarias para garantizar la seguridad de los registros, con el fin de evitar su adulteración, pérdida, consulta o uso no autorizado.
+              p Con la información contenida en los bancos de datos, así como aquella que resulte de las consultas que realicen los usuarios, se deben incorporar las medidas técnicas necesarias para garantizar la seguridad de los registros, con el fin de evitar su adulteración, pérdida, consulta o uso no autorizado.
 
           .row
             .col.mb-4.mb-md-0
               h3 Principio de confidencialidad
-              p todas las personas naturales o jurídicas que intervengan en la administración de datos personales que no tengan carácter público están obligadas, en todo tiempo, a garantizar la reserva de la información, inclusive después de finalizada su relación con alguna de las labores que comprende la administración de datos. 
+              p Todas las personas naturales o jurídicas que intervengan en la administración de datos personales que no tengan carácter público están obligadas, en todo tiempo, a garantizar la reserva de la información, inclusive después de finalizada su relación con alguna de las labores que comprende la administración de datos. 
 </template>
 
 <script>

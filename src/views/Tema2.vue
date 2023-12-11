@@ -13,7 +13,7 @@
           img(src='@/assets/curso/temas/tema2/1.svg', alt='Texto que describa la imagen')
       .col-9.mb-md-0
         p Conocer el contexto del negocio y las organizaciones a las que se pertenece, ya sea como parte de un proyecto de emprendimiento o como empleado de una empresa, implica la definición de elementos fundamentales para establecer una identidad y una comunicación estandarizada con el público y los clientes, basada en la unidad técnica de la organización.
-        p Al igual que las personas tienen diferentes formas de identificarse, las empresas también deben hacerlo. Uno de los aspectos más destacados de la identidad empresarial es el nombre, pero además de eso, se establecen elementos consistentes para que los clientes puedan identificar de manera efectiva lo que relaciona a la marca. Cuando hablamos de marca, nos referimos a la necesidad de tener una identidad clara, lo que se conoce como "branding". Esto implica la construcción de características que definen a la empresa, desde el uso de colores habituales hasta la forma en que se comunica con los clientes y otras empresas.
+        p Al igual que las personas tienen diferentes formas de identificarse, las empresas también deben hacerlo. Uno de los aspectos más destacados de la identidad empresarial es el nombre, pero además de eso, se establecen elementos consistentes para que los clientes puedan identificar de manera efectiva lo que relaciona a la marca. Cuando hablamos de marca, nos referimos a la necesidad de tener una identidad clara, lo que se conoce como #[em "branding"]. Esto implica la construcción de características que definen a la empresa, desde el uso de colores habituales hasta la forma en que se comunica con los clientes y otras empresas.
 
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 #[em Branding]
@@ -26,7 +26,7 @@
           <hr style="border:15px; background-color:#33ECE0">
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            p.mb-0 El #[em branding] o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del branding, se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, genere captación de nuevos clientes y fidelización con la marca. 
+            p.mb-0 El #[em branding] o creación de una marca es un proceso integrado, busca construir marcas que impacten el mercado, que sean conocidas y estén asociadas a elementos positivos y que generen el deseo de comprar por un número alto de consumidores. Entre estos componentes del #[em branding], se integra el diseño gráfico y la puesta en escena de la marca frente a unos públicos definidos y segmentados, de manera que tome relevancia y rentabilidad, genere captación de nuevos clientes y fidelización con la marca. 
             i.fas.fa-quote-right
           .bloque-texto-f__autor.mb-3
             h5.text-end.mb-0 - (Ballesteros, 2016)
@@ -110,7 +110,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Claridad
-            p El uso de un lenguaje claro y sencillo, que sea habitual al lector, genera interés y genera confianza en la marca. Un sitio web con términos técnicos tiene como resultado una elevada tasa de abandono.
+            p El uso de un lenguaje claro y sencillo, que sea habitual al lector, genera interés y genera confianza en la marca. Un sitio #[em web] con términos técnicos tiene como resultado una elevada tasa de abandono.
 
           .col-md-6
             figure

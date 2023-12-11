@@ -164,7 +164,7 @@ export default {
       referencia:
         'Tey, A. (2015). Ana Tey apareciendo en el Anuncio de Línea Directa TE BUSCAMOS Oficina',
       tipo: 'Video',
-      link: 'YouTube. https://youtu.be/Sf3qBBJ2V5g',
+      link: 'https://youtu.be/Sf3qBBJ2V5g',
     },
   ],
   glosario: [
@@ -191,7 +191,7 @@ export default {
     {
       termino: '<em>Marketplace</em>',
       significado:
-        'sitio donde los productos son ofrecidos por los comerciantes para ser adquiridos por consumidores, es decir, un mercado en el mundo online. En él, varios comerciantes colocan sus productos a la venta en un solo canal.',
+        'sitio donde los productos son ofrecidos por los comerciantes para ser adquiridos por consumidores, es decir, un mercado en el mundo <em>online</em>. En él, varios comerciantes colocan sus productos a la venta en un solo canal.',
     },
     {
       termino: 'Medios sincrónicos',
@@ -207,7 +207,7 @@ export default {
   referencias: [
     {
       referencia:
-        'American Express. (2021). Marketplaces: Cómo ayudan a tu Empresa y ejemplos. ',
+        'American Express. (2021). <em>Marketplaces:</em> Cómo ayudan a tu Empresa y ejemplos. ',
       link:
         'https://www.americanexpress.com/es-mx/negocios/trends-and-insights/articles/marketplaces-como-ayudan-a-tu-empresa-y-ejemplos/',
     },
@@ -218,7 +218,7 @@ export default {
     },
     {
       referencia:
-        'Ballesteros, R. (2016). Branding. El arte de marcar corazones. ECOE Ediciones. ',
+        'Ballesteros, R. (2016). <em>Branding</em>. El arte de marcar corazones. ECOE Ediciones. ',
       link:
         'https://books.google.es/books?id=lN3DDQAAQBAJ&lpg=PT4&ots=SgP_ltyJE8&dq=componentes%20del%20branding&lr&hl=es&pg=PT21#v=onepage&q=componentes%20del%20branding&f=false ',
     },
@@ -229,12 +229,13 @@ export default {
     },
     {
       referencia:
-        'Canales, P. (2013). Neuromarketing, ¿el futuro ya está aquí? 3C Empresa, (16). ',
+        'Canales, P. (2013). <em>Neuromarketing</em>, ¿el futuro ya está aquí? 3C Empresa, (16). ',
       link:
         'https://www.3ciencias.com/articulos/articulo/neuromarketing-el-futuro-ya-esta-aqui-2/ ',
     },
     {
-      referencia: 'Canlla, E. (2017). Marketing y ventas por internet. MACRO.',
+      referencia:
+        'Canlla, E. (2017). <em>Marketing</em> y ventas por internet. MACRO.',
       link: '',
     },
     {
@@ -250,7 +251,7 @@ export default {
     },
     {
       referencia:
-        'IngenioVirtual. (2020). ¿Qué es cross selling o venta cruzada en ecommerce? ',
+        'IngenioVirtual. (2020). ¿Qué es <em>cross selling</em> o venta cruzada en <em>ecommerce</em>? ',
       link:
         'https://www.ingeniovirtual.com/que-es-cross-selling-o-venta-cruzada/ ',
     },
@@ -311,13 +312,13 @@ export default {
     },
     {
       referencia:
-        'Real, I. (2014). Uso e impacto de las redes sociales en las estrategias de marketing de las PyME’s. Revista de Investigación Académica Sin Frontera, 7(24). ',
+        'Real, I. (2014). Uso e impacto de las redes sociales en las estrategias de <em>marketing</em> de las PyME’s. Revista de Investigación Académica Sin Frontera, 7(24). ',
       link:
         'https://revistainvestigacionacademicasinfrontera.unison.mx/index.php/RDIASF/article/view/47/46 ',
     },
     {
       referencia:
-        'Salomón, P. (2022). ¿Qué es el marketing B2B y cuál es la mejor estrategia? Inboundcycle. ',
+        'Salomón, P. (2022). ¿Qué es el <em>marketing</em> B2B y cuál es la mejor estrategia? Inboundcycle. ',
       link:
         'https://www.inboundcycle.com/blog-de-inbound-marketing/marketing-b2b-que-es-exactamente ',
     },
