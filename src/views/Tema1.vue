@@ -63,7 +63,7 @@
               h4.mb-1 Ana Tey apareciendo en el Anuncio de Línea Directa TE BUSCAMOS Oficina
               p.mb-0.text-small Revise el siguiente ejemplo del modelo AIDA aplicado, para eso, se le invita a revisar el video que se encuentra en el material complementario con el nombre de #[b Ana Tey apareciendo en el Anuncio de Línea Directa TE BUSCAMOS Oficina] y, luego de eso, revise el siguiente paso a paso desde donde se describen los elementos del modelo: 
             .col-sm-auto
-              a.boton.color-acento-botones(href="" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=Sf3qBBJ2V5g&ab_channel=ANATEY" target="_blank")
                 span Abrir video
                 i.fas.fa-file-download
 

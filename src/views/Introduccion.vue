@@ -18,7 +18,9 @@
 
     p(data-aos="fade-left") En el mundo de las ventas, es crucial comprender las necesidades y deseos del cliente, adaptar el enfoque de ventas a sus preferencias y proporcionar soluciones que agreguen valor. La comunicación efectiva, la empatía y la capacidad de escuchar son habilidades clave para un vendedor exitoso.
 
-    p   ACA VA VIDEO
+    figure
+      .video 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/i2FCaKOYA_s?si=bSzMZQhHY9GVGe5k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen)
 
       
 
