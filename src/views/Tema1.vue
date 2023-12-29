@@ -67,8 +67,6 @@
                 span Abrir video
                 i.fas.fa-file-download
 
-    p aca va video
-
     p(data-aos="fade-left").mb-5 En el caso de las piezas gráficas estáticas, varios de los anuncios promueven ese modelo. A continuación, se evidencia un ejemplo claro de lo que es la aplicación del modelo AIDA en un anuncio de una red social:
 
     .row.justify-content-center.align-items-center.mb-5

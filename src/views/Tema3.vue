@@ -58,7 +58,7 @@
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Ventas")
             h4 Conseguir ventas
-            p La idea es convertir alcance de la publicación en ventas; esto se logra cuando se capta la atención de la persona y de inmediato va a la plataforma de compra (algunos canales tienen, de manera nativa, Marketplace y tiendas donde se puede realizar la transacción de las ventas). 
+            p La idea es convertir alcance de la publicación en ventas; esto se logra cuando se capta la atención de la persona y de inmediato va a la plataforma de compra (algunos canales tienen, de manera nativa, Facebook Marketplace y tiendas donde se puede realizar la transacción de las ventas). 
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Visibilidad")
             h4 Mayor visibilidad
@@ -112,7 +112,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/5.svg', alt='Texto que describa la imagen')
           
-        h2.text-center Facebook #[em Marketplace]
+        h2.text-center Facebook Marketplace
         p Espacio donde se pueden comprar y vender artículos con personas de comunidades y grupos conformados.
       .col-md.tarjeta(style="background-color:#E3ECF7").p-5
         .row.justify-content-center.mb-4
@@ -128,8 +128,8 @@
             figure
               img(src='@/assets/curso/temas/tema3/7.svg', alt='Texto que describa la imagen')
           
-        h2.text-center Facebook #[em Reels]
-        p Son una forma de publicar videos cortos con gran contenido de entretenimiento, Es eficiente para darse a conocer, de manera práctica, a nuevas audiencias y formar parte de momentos culturales en Facebook. Presenta varias opciones, tales como efectos, música o usar audios propios y originales, para ampliar el abanico del desarrollo de las ideas creativas.
+        h2.text-center Facebook Reels
+        p Son una forma de publicar videos cortos con gran contenido de entretenimiento. Es eficiente para darse a conocer, de manera práctica, a nuevas audiencias y formar parte de momentos culturales en Facebook. Presenta varias opciones, tales como efectos, música o usar audios propios y originales, para ampliar el abanico del desarrollo de las ideas creativas.
 
     .row.justify-content-center.mb-5 
       .col-10 
