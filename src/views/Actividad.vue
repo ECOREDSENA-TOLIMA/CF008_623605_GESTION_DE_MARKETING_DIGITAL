@@ -10,7 +10,7 @@
             img(src="@/assets/template/falso-verdadero.png", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Negociación y cierre de ventas
+          h2 Ventas y principios de negociación
         p.mb-4 #[b Objetivo] Relacionar los conceptos de métodos de promoción, venta, canales digitales y negociación, para entender cómo las empresas pueden hacer parte del mundo gracias al #[em marketing] digital.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
