@@ -74,7 +74,7 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 #[b Figura 1.] <em>Ejemplo AIDA en ADS</em>
         figure
-          img.mb-3(src='@/assets/curso/temas/tema1/5.png', alt='En la figura 1 se muestra un ejemplo del modelo AIDA en un anuncio de red social.')
+          img.mb-3(src='@/assets/curso/temas/tema1/13.png', alt='En la figura 1 se muestra un ejemplo del modelo AIDA en un anuncio de red social.')
         figcaption Nota. Tomado de branch.com.co
 
     .row.justify-content-center.align-items-center.mb-5

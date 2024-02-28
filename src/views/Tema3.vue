@@ -1,5 +1,5 @@
 <template lang="pug">
-.curso-main-container.pb-3
+.curso-main-container.pb-3.tema3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
@@ -36,7 +36,7 @@
       h2 3.1 Redes sociales
 
     p(data-aos="fade-left") Son herramientas basadas en estructuras digitales que interconectan personas y empresas a partir de un interés o valores en común.
-    p(data-aos="fade-left") Canales como em X, Instagram y Facebook permiten que los públicos tengan un contacto más cercano con la empresa, de tal forma que puedan expresar sus inconformidades y lo que esperan de esta, sin necesidad de trasladarse de lugar. La respuesta inmediata que puede el consumidor recibir de la empresa logra no solo fidelizar al cliente, sino también brindar a la clientela la seguridad de que está siendo escuchado activamente. Otras como YouTube permiten ser más vitrinas en medios audiovisuales, que si bien podrían ser más costosas, se podría recompensar con la efectividad que presentan.
+    p(data-aos="fade-left") Canales como X, Instagram y Facebook permiten que los públicos tengan un contacto más cercano con la empresa, de tal forma que puedan expresar sus inconformidades y lo que esperan de esta, sin necesidad de trasladarse de lugar. La respuesta inmediata que puede el consumidor recibir de la empresa logra no solo fidelizar al cliente, sino también brindar a la clientela la seguridad de que está siendo escuchado activamente. Otras como YouTube permiten ser más vitrinas en medios audiovisuales, que si bien podrían ser más costosas, se podría recompensar con la efectividad que presentan.
     p(data-aos="fade-left").mb-5 Todo plan de comunicación y #[em marketing] digital tiene como componente principal uno o varios objetivos, dependiendo del enfoque de campañas o pretensiones comerciales. A continuación, se mencionan los objetivos que aplican en el uso de las redes sociales:
 
     .row.mb-5
