@@ -220,7 +220,7 @@ export default {
       referencia:
         'Ballesteros, R. (2016). <em>Branding</em>. El arte de marcar corazones. ECOE Ediciones. ',
       link:
-        'https://books.google.es/books?id=lN3DDQAAQBAJ&lpg=PT4&ots=SgP_ltyJE8&dq=componentes%20del%20branding&lr&hl=es&pg=PT21#v=onepage&q=componentes%20del%20branding&f=false ',
+        'https://www.ecoeediciones.mx/wp-content/uploads/2016/08/Branding.pdf',
     },
     {
       referencia:
@@ -242,7 +242,7 @@ export default {
       referencia:
         'CEEI Ciudad Real. (2005). Guía para la elaboración de un estudio de mercado. ',
       link:
-        'https://www.eenbasque.net/guia_transferencia_resultados/files/CEEI_Ciudad_Real-Guia_para_la_elaboraci%2B%A6n_de_un_estudio_de_mercado.pdf ',
+        'https://www.camaracr.org/fileadmin/user_upload/documentos/guias_y_manuales/guia_elaboracion_estudios_de_mercado.pdf',
     },
     {
       referencia:
@@ -281,7 +281,7 @@ export default {
       referencia:
         'Meta. (2021). Three Insights On the Business Opportunity for the Metaverse. ',
       link:
-        'https://www.facebook.com/business/news/metaverse-business-opportunity-insights ',
+        'https://www.facebook.com/business/news/metaverse-business-opportunity-insights',
     },
     {
       referencia:

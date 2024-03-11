@@ -50,7 +50,7 @@
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.2 Lenguaje corporativo
 
-    p(data-aos="fade-left").mb-5 Hablar de lenguaje corporativo es hacer referencia a todas las manifestaciones que comunican algo de parte de una organización. Cuando se recuerda a una persona hablar, por ejemplo, se recrea en la mente el timbre de voz, sus gestos y hasta sus manos moviéndose de la manera particular de esa persona; asimismo, parte de la identidad corporativa de la empresa es lograr una manera particular de comunicarse manteniendo su ADN. 
+    p(data-aos="fade-left").mb-5 Hablar de lenguaje corporativo es hacer referencia a todas las manifestaciones que comunican algo de parte de una organización. Cuando se recuerda a una persona hablar, por ejemplo, se recrea en la mente el timbre de voz, sus gestos y hasta sus manos, moviéndose de la manera particular de esa persona; asimismo, parte de la identidad corporativa de la empresa es lograr una manera particular de comunicarse manteniendo su ADN. 
 
     .tarjeta(style="background-color:#FFFBE5;border-radius:0").p-4.mb-5
       .row

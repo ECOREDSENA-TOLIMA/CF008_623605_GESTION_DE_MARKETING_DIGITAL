@@ -134,13 +134,13 @@
             p Si se tiene, por ejemplo, venta y reparación de computadoras y se acerca alguien con un equipo con fallas, dos de las preguntas podrían ser: ¿hace cuánto tiene la computadora?, ¿Qué uso le da? Cuando se tenga el perfil de lo que necesita el cliente, se sacan conclusiones basadas en las respuestas de la situación, que vayan orientando hacia el problema en concreto; lo importante es procurar llevar a que el cliente mismo llegue a su problema, que, sin duda, se le resolvería usando servicios o productos como los suyos.
 
           div(x="93.7%" y="26%" numero="+" tooltip="Problema")
-            p Para llegar a su propia conclusión, se podrían usar preguntas como: ¿Qué pasa cuando no puede usar su computadora?, ¿su empleo depende del equipo de cómputo?, ¿el computador le ha trabajado correctamente últimamente o ha estado lento?
+            p Para llegar a su propia conclusión, se podrían usar preguntas como: ¿Qué pasa cuando no puede usar su computadora?, ¿Su empleo depende del equipo de cómputo?, ¿El computador le ha trabajado correctamente últimamente o ha estado lento?
 
           div(x="93.7%" y="51%" numero="+" tooltip="Implicaciones")
-            p Para esto, podrían usarse las preguntas: ¿Qué costo tendría para usted seguir llevando el computador al servicio técnico frecuentemente?, ¿Qué tiempo pierde cuando la computadora no funciona bien?, ¿con una máquina nueva tendrías menos problemas y, por el contrario, podría aumentar su productividad?
+            p Para esto, podrían usarse las preguntas: ¿Qué costo tendría para usted seguir llevando el computador al servicio técnico frecuentemente?, ¿Qué tiempo pierde cuando la computadora no funciona bien?, ¿Con una máquina nueva tendrías menos problemas y, por el contrario, podría aumentar su productividad?
 
           div(x="79%" y="78.5%" numero="+" tooltip="Necesidades")
-            p Las preguntas en esta fase podrían ser: ¿sería más fácil y rápido cumplir con tus tareas diarias?, ¿sería mejor para su empresa y su desempeño laboral?, ¿podría hacer más cosas e incluso otras actividades si mejora la productividad y el tiempo de trabajo?
+            p Las preguntas en esta fase podrían ser: ¿Sería más fácil y rápido cumplir con tus tareas diarias?, ¿sería mejor para su empresa y su desempeño laboral?, ¿Podría hacer más cosas e incluso otras actividades si mejora la productividad y el tiempo de trabajo?
 
     p(data-aos="fade-left").mb-5 Lo más importante es afrontar los desafíos diarios para aumentar las ventas, y el uso de estas técnicas podría tener un efecto muy positivo para el aumento de las cifras.
 
@@ -164,7 +164,7 @@
           div(x="50%" y="0%" numero="1" tooltip="Características")
             h5 Características
             p Se describen los atributos físicos y propiedades de un producto o servicio. Esta descripción debe tener elementos observables, fáciles de medir y relacionados con la naturaleza del producto.
-            p Es importante hacerse preguntas sobre el producto, tales como: ¿Qué es?, ¿de qué material está hecho?, ¿peso?, ¿características y capacidad?, etc.
+            p Es importante hacerse preguntas sobre el producto, tales como: ¿Qué es?, ¿De qué material está hecho?, ¿Peso?, ¿Características y capacidad?, etc.
 
 
           div(x="85%" y="35%" numero="2" tooltip="Ventajas")

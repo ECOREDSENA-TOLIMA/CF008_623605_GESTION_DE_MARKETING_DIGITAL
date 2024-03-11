@@ -133,7 +133,7 @@
 
     .row.justify-content-center.mb-5 
       .col-10 
-        p(data-aos="fade-left") #[b Meta #[em Business Suite]] es una plataforma integral que ofrece una serie de herramientas interconectadas diseñadas para mejorar la productividad y la gestión de negocios en las principales redes sociales. En la actualidad, esta plataforma permite gestionar actividades y publicaciones con opciones avanzadas de métricas y segmentación en plataformas como Facebook, Messenger e Instagram . Es importante destacar que, en el futuro, es probable que se integren otras plataformas de Meta, como WhatsApp y Oculus (relacionado con el metaverso).
+        p(data-aos="fade-left") #[b Meta #[em Business Suite]] es una plataforma integral que ofrece una serie de herramientas interconectadas diseñadas para mejorar la productividad y la gestión de negocios en las principales redes sociales. En la actualidad, esta plataforma permite gestionar actividades y publicaciones con opciones avanzadas de métricas y segmentación en plataformas como Facebook, Messenger e Instagram. Es importante destacar que, en el futuro, es probable que se integren otras plataformas de Meta, como WhatsApp y Oculus (relacionado con el metaverso).
         p(data-aos="fade-left") Meta, a través de su plataforma principal, Facebook, se ha convertido en una especie de academia para el #[em marketing] y la proyección de negocios. Se ha consolidado como un ecosistema en el que prácticamente todos están presentes, y gran parte del éxito empresarial radica en la habilidad para aprovechar eficazmente esta plataforma y sus herramientas. Meta Business Suite proporciona a las empresas las herramientas necesarias para gestionar y potenciar su presencia en las redes sociales, lo que contribuye al crecimiento y el éxito en un mundo cada vez más digitalizado.
 
     .row.align-items-center.mb-4(data-aos="fade-down-right")
@@ -355,7 +355,7 @@
         .row
           .col-md-6.mb-4.mb-md-0
             h3 Venta indirecta
-            p Estos tipos de venta se realizan a través de terceros, tiene ventajas como la facilidad de expandir los alcances de la venta y cubrir más volumen y mercado con el producto; sin embargo, hay poco control de la calidad de la marca y los precios se incrementan. Por ejemplo, las comercializadoras que traen cosas que nadie más tiene.
+            p Estos tipos de venta se realizan a través de terceros, tienen ventajas como la facilidad de expandir los alcances de la venta y cubrir más volumen y mercado con el producto; sin embargo, hay poco control de la calidad de la marca y los precios se incrementan. Por ejemplo, las comercializadoras que traen cosas que nadie más tiene.
 
           .col-md-6
             figure
