@@ -244,7 +244,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema3/14-m.svg', alt='En la figura 3 se muestran las ventajas que presenta Google para empresas.')
 
-    p(data-aos="fade-left").mb-5 Es importante mencionar que la marca Google es todo un ecosistema digital; al igual que otras grandes compañías como Microsoft, cuenta con múltiples herramientas de productividad que abarcan todo tipo y tamaño de empresas. Cuando las empresas van creciendo, también su administración se hace compleja; emplear compañías como estas podría ser una ayuda grande para mejorar el control, mediciones, flujos de procesos, comunicaciones y toda la productividad corporativa. La siguiente figura muestra un gran recurso que tiene Google como empresa matriz de cientos de aplicaciones, estas son solo las más populares:
+    p(data-aos="fade-left").mb-5 Es importante mencionar que la marca <em>Google</em> es todo un ecosistema digital; al igual que otras grandes compañías como <em>Microsoft</em>, cuenta con múltiples herramientas de productividad que abarcan todo tipo y tamaño de empresas. Cuando las empresas van creciendo, también su administración se hace compleja; emplear compañías como estas podría ser una ayuda grande para mejorar el control, mediciones, flujos de procesos, comunicaciones y toda la productividad corporativa. La siguiente figura muestra un gran recurso que tiene <em>Google</em> como empresa matriz de cientos de aplicaciones, estas son solo las más populares:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.desktop(data-aos="fade-right")
@@ -267,7 +267,7 @@
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-8
-        p En contrapeso con las redes sociales, que, si bien tienen gran potencial en alcance de público y publicidad, son recursos en los que es necesario atenerse a sus políticas y someterse, incluso a decisiones como cierre de cuentas y censurar publicaciones; estas acciones han llevado a negocios completos a irse por la borda, por la dependencia absoluta de una cuenta en redes sociales. Sin contar los riesgos más expuestos a robo de cuentas o hackeo de las mismas.  
+        p En contrapeso con las redes sociales, que, si bien tienen gran potencial en alcance de público y publicidad, son recursos en los que es necesario atenerse a sus políticas y someterse, incluso a decisiones como cierre de cuentas y censurar publicaciones; estas acciones han llevado a negocios completos a irse por la borda, por la dependencia absoluta de una cuenta en redes sociales. Sin contar los riesgos más expuestos a robo de cuentas o <em>hackeo</em> de las mismas.  
         .cajon.color-secundario.p-4.mb-3
           .row.justify-content-center.align-items-center
             .col-3

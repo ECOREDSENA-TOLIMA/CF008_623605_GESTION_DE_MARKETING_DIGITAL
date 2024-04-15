@@ -257,8 +257,8 @@ export default {
     },
     {
       referencia:
-        'Katyuska. (2016). Diferencias entre mercados B2C y mercados B2B. Wuombo. ',
-      link: 'https://wuombo.com/diferencias-mercados-b2c-mercados-b2b/ ',
+        'Zendesk. (2023). Las 6 principales diferencias entre ventas B2B y B2C: qué son y ejemplos. Recuerpado de',
+      link: 'https://www.zendesk.com.mx/blog/diferencias-b2b-b2c/',
     },
     {
       referencia:
@@ -343,7 +343,7 @@ export default {
       autores: [
         {
           nombre: 'Claudia Patricia Aristizabal',
-          cargo: 'Responsable del equipo',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
