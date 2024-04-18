@@ -58,7 +58,7 @@
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Ventas")
             h4 Conseguir ventas
-            p La idea es convertir alcance de la publicación en ventas; esto se logra cuando se capta la atención de la persona y de inmediato va a la plataforma de compra (algunos canales tienen, de manera nativa, Facebook Marketplace y tiendas donde se puede realizar la transacción de las ventas). 
+            p La idea es convertir alcance de la publicación en ventas; esto se logra cuando se capta la atención de la persona y de inmediato va a la plataforma de compra (algunos canales tienen, de manera nativa, "Marketplace" y tiendas donde se puede realizar la transacción de las ventas). 
 
           .tarjeta(style="background-color:#FFFBE5").p-4(titulo="Visibilidad")
             h4 Mayor visibilidad
@@ -102,8 +102,6 @@
           )
           .bloque-texto-g__texto.p-5
             p.mb-0 En el ámbito de las herramientas proporcionadas por Meta, en particular en Facebook, la red social principal de esta empresa, se encuentran disponibles diversas opciones destinadas a las empresas. Cada una de estas herramientas posee sus propios métodos, enfoques y técnicas para su implementación. La clave radica en la selección cuidadosa de los canales y herramientas que mejor se adapten a los objetivos empresariales y en su utilización efectiva. Algunas de las opciones de Facebook incluyen la creación de “Páginas de Negocio”, la publicidad a través de Facebook Ads, la comunicación directa a través de Facebook Messenger, la creación de “Grupos de Facebook” como espacios de comunidad, la retransmisión en vivo con Facebook Live y el acceso a métricas y análisis a través de Facebook Insights. Esta variedad de herramientas permite a las empresas personalizar su enfoque y estrategia en función de sus necesidades y objetivos específicos.
-
-    
 
     .tarjeta--container.row.mb-5
       .col-md.tarjeta(style="background-color:#FFFBE5").p-5
@@ -244,7 +242,7 @@
         figure
           img.mb-3(src='@/assets/curso/temas/tema3/14-m.svg', alt='En la figura 3 se muestran las ventajas que presenta Google para empresas.')
 
-    p(data-aos="fade-left").mb-5 Es importante mencionar que la marca <em>Google</em> es todo un ecosistema digital; al igual que otras grandes compañías como <em>Microsoft</em>, cuenta con múltiples herramientas de productividad que abarcan todo tipo y tamaño de empresas. Cuando las empresas van creciendo, también su administración se hace compleja; emplear compañías como estas podría ser una ayuda grande para mejorar el control, mediciones, flujos de procesos, comunicaciones y toda la productividad corporativa. La siguiente figura muestra un gran recurso que tiene <em>Google</em> como empresa matriz de cientos de aplicaciones, estas son solo las más populares:
+    p(data-aos="fade-left").mb-5 Es importante mencionar que la marca Google es todo un ecosistema digital; al igual que otras grandes compañías como Microsoft, cuenta con múltiples herramientas de productividad que abarcan todo tipo y tamaño de empresas. Cuando las empresas van creciendo, también su administración se hace compleja; emplear compañías como estas podría ser una ayuda grande para mejorar el control, mediciones, flujos de procesos, comunicaciones y toda la productividad corporativa. La siguiente figura muestra un gran recurso que tiene Google como empresa matriz de cientos de aplicaciones, estas son solo las más populares:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-8.desktop(data-aos="fade-right")
