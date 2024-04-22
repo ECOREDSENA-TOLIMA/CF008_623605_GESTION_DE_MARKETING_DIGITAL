@@ -211,13 +211,13 @@
     .row.align-items-center.mb-4(data-aos="fade-down-right")
       .d-flex.titulo-h3
         img(src='@/assets/curso/temas/icono.svg', style="width: 30px", alt='')
-        h3.mb-0.ms-3 <em>Business Profile</em> (perfil del negocio) de Google. 
+        h3.mb-0.ms-3 #[b Business Profile] (perfil del negocio) de Google. 
 
     .row.justify-content-center.align-items-center.mb-5 
       .col-4
         img(src='@/assets/curso/temas/tema3/12.png')
       .col-8
-        p El <em>Business Profile</em> de Google, anteriormente conocido como Google My Business y accesible a través de https://www.google.com/business/, es una #[em suite] de herramientas desarrolladas por el gigante de Internet Google, diseñadas para potenciar la presencia de negocios en la #[em web]. Cada minuto, se realizan aproximadamente 3,8 millones de búsquedas en el motor de búsqueda de Google, lo que significa que millones de personas buscan tiendas, productos, restaurantes y otros tipos de negocios. Muchas de estas búsquedas se centran en la zona de influencia del negocio, lo que lo convierte en una valiosa oportunidad para las empresas.
+        p #[b El Business Profile] de Google, anteriormente conocido como Google My Business y accesible a través de https://www.google.com/business/, es una #[em suite] de herramientas desarrolladas por el gigante de Internet Google, diseñadas para potenciar la presencia de negocios en la #[em web]. Cada minuto, se realizan aproximadamente 3,8 millones de búsquedas en el motor de búsqueda de Google, lo que significa que millones de personas buscan tiendas, productos, restaurantes y otros tipos de negocios. Muchas de estas búsquedas se centran en la zona de influencia del negocio, lo que lo convierte en una valiosa oportunidad para las empresas.
         .cajon.color-acento-contenido.p-4
           p El Business Profile de Google ofrece una integración de herramientas que no solo mejoran la productividad, sino que se centran en la presencia digital y la indexación en el motor de búsqueda de Google. Esto incluye la posibilidad de configurar una descripción de la empresa, proporcionar datos de contacto, enlazar al sitio #[em web] de la empresa, mostrar fotos, detallar la ubicación geográfica, especificar horarios de apertura y cierre, y permitir que los clientes dejen reseñas y calificaciones.
       
